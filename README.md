@@ -18,6 +18,7 @@ Note:
 It will auto delete all partitions old.
 ```
 User & pass for this ubuntu:
+```
 use: root
 pass: pacopower
 ```
